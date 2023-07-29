@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Fahoo
+ *
+ */
+module MyFirstOopObject {
+}
